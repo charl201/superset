@@ -33,6 +33,7 @@ Join our growing community!
 - [Lime](https://www.limebike.com/) [@cxmcc]
 - [Lyft](https://www.lyft.com/)
 - [Ontruck](https://www.ontruck.com/)
+- [Azurenting](https://azurenting.com/)
 
 ### Financial Services
 - [Aktia Bank plc](https://www.aktia.com) [@villebro]
